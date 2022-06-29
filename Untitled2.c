@@ -34,3 +34,8 @@ void main() {
     	printf("%d", map[i][0]);
 }
 
+void asd(){
+	printf("asd");
+	PRINTF("ASDAWE")
+}
+
